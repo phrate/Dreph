@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Isometric Test</title>
+        <title>Isometric Test 2</title>
         <script src="src/js/jquery.js"></script>
         <!--//-->
         <script src="src/js/_tempCache.js"></script>

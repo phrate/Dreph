@@ -1,5 +1,5 @@
 /****
-* Initialization File - 2
+* Initialization File
 * -------------------
 * This file initiates and loads/processes
 * the following steps, in order:

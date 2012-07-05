@@ -1,4 +1,3 @@
-<doctype 1>
 <html>
     <head>
         <title>Isometric Test</title>

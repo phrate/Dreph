@@ -1,0 +1,1 @@
+node c:\wamp\www\mmo\_server\server.js
